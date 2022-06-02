@@ -15,9 +15,6 @@ CREATE TABLE `kontak` (
 
 
 INSERT INTO `kontak` (`id`, `nama`, `nim`, `domisili`) VALUES
-(1, 'Iman K', 'duhaweb@gmail.com', '081391225070'),
-(3, 'Arif', 'arif@gmail.com', '081324567709'),
-(4, 'Andi', 'andi@gmail.com', '083274355769');
 
 
 ALTER TABLE `kontak`
